@@ -15,5 +15,5 @@ Aqui estão os certificados que completei:
 3. **Curso de C**
 - Instituição: CEUB - Centro de Ensino Unificado de Brasília
 - Data de Conclusão: 15/04/2023
-- [Visualizar Certificado](certificado-curso-c.pdf)
+- [Visualizar Certificado](certificado-c.pdf)
 
