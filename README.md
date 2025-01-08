@@ -17,3 +17,8 @@ Aqui estão os certificados que completei:
 - Data de Conclusão: 15/04/2023
 - [Visualizar Certificado](certificado-c.pdf)
 
+- 4. **Curso de HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags**
+- Instituição: Alura
+- Data de Conclusão: 06/01/2025
+- [visualizar Certificado](certificado-html-css.pdf)
+
