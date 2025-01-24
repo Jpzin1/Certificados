@@ -21,3 +21,8 @@ Aqui estão os certificados que completei:
 - Instituição: Alura
 - Data de Conclusão: 06/01/2025
 - [visualizar Certificado](certificado-html-css.pdf)
+
+5. **Jornada Python da Hashtag**
+- Instituição: Hashtag Treinamentos
+- Data de Conclusão: 16/01/2025
+- [visualizar Certificado](certificado-python.pdf)
