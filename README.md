@@ -20,9 +20,9 @@ Aqui estão os certificados que completei:
 4. **Curso de HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags**
 - Instituição: Alura
 - Data de Conclusão: 06/01/2025
-- [visualizar Certificado](certificado-html-css.pdf)
+- [Visualizar Certificado](certificado-html-css.pdf)
 
 5. **Jornada Python da Hashtag**
 - Instituição: Hashtag Treinamentos
 - Data de Conclusão: 16/01/2025
-- [visualizar Certificado](certificado-python.pdf)
+- [Visualizar Certificado](certificado-python.pdf)
